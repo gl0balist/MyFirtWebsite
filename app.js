@@ -4,4 +4,4 @@ tl.fromTo("h1", { opacity: 0 }, { opacity: 1, duration: 2 });
 tl.fromTo("h2", { opacity: 0 }, { opacity: 1, duration: 3 }, "-=1");
 
 gsap.to('.top-cloud', {x: -75, duration: 2});
-gsap.to('.bottom-cloud', {x: 255, duration: 2});
+gsap.to('.bottom-cloud', {x: 205, duration: 2});
