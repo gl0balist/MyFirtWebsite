@@ -48,18 +48,18 @@ p {
 
 .top-cloud {
   position: absolute;
-  right: 300px;
+  right: 50%;
   top: 40px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 250px;
-  bottom: 300px;
+  righ: 50%;
+  top: 100px;
 }
 
 .mount {
-  width: 40%;
+  width: 35%;
 }
 
 .middle-container {
